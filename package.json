@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "3.x",
     "request": "2.11.x",
-    "signed-request": "1.0.x"
+    "signed-request": "1.0.x",
+    "jade": "0.31.0"
   },
   "engines": {
     "node": "0.8.x",
