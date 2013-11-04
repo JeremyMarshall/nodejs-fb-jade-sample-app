@@ -1,13 +1,13 @@
 {
-  "name": "fb-sample-app",
-  "description": "A sample Facebook application on nodejs.",
+  "name": "fb-jade-sample-app",
+  "description": "A sample Facebook application on nodejs with jade templating engine.",
   "version": "1.0.0",
-  "homepage": "https://github.com/daaku/nodejs-fb-sample-app",
-  "author": "Naitik Shah <n@daaku.org>",
+  "homepage": "https://github.com/JeremyMarshall/nodejs-fb-jade-sample-app",
+  "author": "Jeremy Marshall <jeremymstuartmarshall@gmail.com",
   "bin": { "fb-sample-app": "./app.js" },
   "repository": {
     "type": "git",
-    "url": "https://github.com/daaku/nodejs-fb-sample-app"
+    "url": "https://github.com/JeremyMarshall/nodejs-fb-jade-sample-app"
   },
   "dependencies": {
     "express": "3.x",
